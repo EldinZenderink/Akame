@@ -1,0 +1,10 @@
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\bin\Debug\Akame.exe.config
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\bin\Debug\Akame.exe
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\bin\Debug\Akame.pdb
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\bin\Debug\DirectShowLib.dll
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\bin\Debug\DirectShowLib.pdb
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\obj\Debug\Akame.csprojResolveAssemblyReference.cache
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\obj\Debug\Akame.exe
+c:\users\eldin\documents\visual studio 2013\Projects\Akame\Akame\obj\Debug\Akame.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\Akame\Akame\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\Akame\Akame\obj\Debug\Akame.csproj.ResolveComReference.cache
